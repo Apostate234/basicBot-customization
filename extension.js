@@ -93,7 +93,7 @@
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
-        website: http://tagpro.gg/,
+        website: "http://tagpro.gg/",
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
